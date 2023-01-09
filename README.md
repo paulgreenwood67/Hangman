@@ -1,3 +1,6 @@
+To play this gane you have to select the letters one at a time to try and find the hidden word. If you select a correct letter it will display on the dashed line. If you select a wrong letter one section of the gallows (or later the man) will be displayed . If you find the hidden word the man won't hang and you win. If you select 10 incorrect letters the image will be complete and you lose...HANGMAN!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
